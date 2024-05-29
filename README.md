@@ -1,4 +1,4 @@
-C2-SERVER
+##C2-SERVER
 Customizable Command-and-Control (C2) Server
 Customizable Command-and-Control (C2) Server is a powerful platform for managing and controlling multiple compromised systems remotely. It provides a centralized interface for executing commands, transferring files, and gathering information from connected clients.
 
